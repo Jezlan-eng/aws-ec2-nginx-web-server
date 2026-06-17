@@ -15,8 +15,11 @@ Learn DevOps by building a real AWS EC2 web server from scratch.
 
 ## Current Progress
 
+## Current Progress
+
 - [x] Day 1 - Understanding Servers
 - [x] Day 2 - AWS Console
-- [x] Day 3 - Created EC2 Instance
-- [x] Day 4 - Connected using SSH
-- [ ] Day 5 - Linux inside EC2 and installing Nginx
+- [x] Day 3 - Created EC2
+- [x] Day 4 - Connected with SSH
+- [x] Day 5 - Installed Nginx and Hosted Website
+- [ ] Day 6 - GitHub + Deploy Website Automatically
